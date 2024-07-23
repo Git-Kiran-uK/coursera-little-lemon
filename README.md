@@ -1,2 +1,2 @@
 # coursera-little-lemon
-Coursera Fron-End project
+Coursera Front-End project
