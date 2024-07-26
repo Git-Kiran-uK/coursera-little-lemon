@@ -1,0 +1,117 @@
+
+
+.home {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+  padding: 2rem 0;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 1200px;
+}
+
+.hero-text {
+  max-width: 600px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero-text h2 {
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.hero-img img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.specials {
+  background-color: #f9f9f9;
+  padding: 2rem 0;
+}
+
+.special-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.special-content h2 {
+  font-size: 2rem;
+}
+
+.special-items {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 2rem 0;
+}
+
+.testimonials {
+  width: 100%;
+  background-color: #fff;
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.testimonial-content{
+  display: flex;
+  margin-inline: auto;
+}
+
+.testimonials h2{
+  text-align: center;
+}
+
+.about {
+  background-color: #f4f4f4;
+  padding: 2rem 0;
+  text-align: center;
+  display: flex;
+}
+
+.about h2 {
+  font-size: 2rem;
+}
+
+.about p {
+  font-size: 1.2rem;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about .about-img img{
+  width: 300px;
+  height: auto;
+}
